@@ -1,3 +1,5 @@
+Note: AWS originally provided this cloud formation template as a way to implement specific CIS Benchmarks. They decommissioned this quickstart in favour of AWS Security Hub service. Unfortunately this service does not provide any method to implement the required changes to align with the benchmarks in an automated fashion - only to report on their status.
+
 # quickstart-compliance-cis-benchmark
 ## CIS AWS Foundations Benchmark in the AWS Cloud
 
